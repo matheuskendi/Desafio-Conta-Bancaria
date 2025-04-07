@@ -14,6 +14,11 @@ public class Main {
 
 
         cc.imprimirExtrato();
+        cc.imprimirHistorico();
+
         cp.imprimirExtrato();
+        cp.imprimirHistorico();
+
+
     }
 }
